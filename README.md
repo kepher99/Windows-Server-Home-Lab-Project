@@ -136,3 +136,61 @@ In this episode, I focused on **Windows Server security policies** to protect us
 This hands-on setup strengthened my understanding of how security policies work together to **enhance authentication** and **overall server security** in an enterprise environment.  
 
 ---
+
+
+---
+
+# 🚀 Windows Server Homelab Series – Episode 6: Service Accounts  
+**#WindowsServer2022 #WindowsServer #HomeLab #ITSupport #ITSpecialists #SysInternals #ITSupportServices #LearningInPublic #WindowsServerLabs**
+
+In this episode, I explored how **Service Accounts** work in Windows Server environments and demonstrated how to set up **single-purpose computers** using **Windows Kiosk Mode**. I also used **SysInternals tools** to monitor and manage these accounts effectively.  
+
+During the process, I had to clear up local disk storage to download and extract the SysInternals suite — a real-world reminder of how important **system maintenance** and **resource management** are in server administration.
+
+---
+
+## 🎥 Project Video  
+[![Watch the video](https://img.youtube.com/vi/MKY0R4r1y1w/0.jpg)](https://www.youtube.com/watch?v=MKY0R4r1y1w)
+
+---
+
+## 🔧 Key Takeaways
+- 🧠 Understanding the role and importance of **Service Accounts**  
+- 💻 Configuring **single-purpose computers** using Windows Kiosk Mode  
+- 🧰 Using **SysInternals tools** for system monitoring and troubleshooting  
+- 🧹 Managing **storage space** efficiently for server tools and utilities  
+- 🔐 Strengthening **security** through account isolation and least privilege  
+
+---
+
+## 📘 Summary
+This hands-on session enhanced my understanding of **service account management, security practices, and real-world system administration** in Windows Server environments.  
+
+---
+
+---
+
+# 🔐 Windows Server Homelab: Securing Service Accounts with GPOs  
+**#WindowsServer2022 #ActiveDirectory #GPO #ITHomeLab #ITSupport #SystemAdministration #ITSecurity**
+
+In this chapter, we explore how **Group Policy Objects (GPOs)** can be used to **manage and secure service accounts** in a Windows Server environment. This session demonstrates how to apply the right policies to enforce permissions, enhance security, and ensure service accounts operate with **least privilege**.  
+
+---
+
+## 🎥 Project Video  
+[![Watch the video](https://img.youtube.com/vi/I7INbBy54Nc/0.jpg)](https://www.youtube.com/watch?v=I7INbBy54Nc&t=4s)
+
+---
+
+## 🔧 What You’ll Learn
+- Creating and applying **GPOs specifically for service accounts**  
+- Best practices for **locking down service accounts** using security filters  
+- Linking and enforcing policies within your **Homelab environment**  
+- Tips for **troubleshooting service account policy issues**  
+
+---
+
+## 📘 Summary
+This session is ideal for anyone building a **secure Windows Server environment**, especially in a homelab setup that mirrors **real-world enterprise practices**.  
+
+---
